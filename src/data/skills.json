@@ -1,0 +1,61 @@
+[
+  {
+    "group": "Languages",
+    "items": [
+      "C",
+      "C++",
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "Bash",
+      "Sed",
+      "Awk",
+      "Make",
+      "Verilog",
+      "MIPS",
+      "LaTeX"
+    ]
+  },
+  {
+    "group": "Development",
+    "items": [
+      "Git",
+      "GitHub",
+      "Node.js",
+      "NestJS",
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "HTML",
+      "Docker",
+      "GDB",
+      "Jest"
+    ]
+  },
+  {
+    "group": "ML / Data",
+    "items": [
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "SciPy",
+      "MongoDB"
+    ]
+  },
+  {
+    "group": "Algorithmic Toolkit",
+    "items": [
+      "Segment Trees",
+      "HLD",
+      "Centroid Decomposition",
+      "Suffix Trees",
+      "FFT/NTT",
+      "Graph Algorithms",
+      "Dynamic Programming",
+      "Number Theory"
+    ]
+  }
+]

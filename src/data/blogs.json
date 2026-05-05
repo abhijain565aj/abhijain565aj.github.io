@@ -1,0 +1,58 @@
+[
+  {
+    "id": "icpc-training-notes",
+    "title": "How I Train for ICPC-Style Problem Solving",
+    "status": "Draft",
+    "date": "2026-01-15",
+    "readTime": "8 min",
+    "summary": "A practical note on building speed, proof intuition, template hygiene and contest review loops.",
+    "tags": [
+      "ICPC",
+      "Algorithms",
+      "Learning"
+    ],
+    "url": "#"
+  },
+  {
+    "id": "compiler-from-scratch",
+    "title": "What Building a Compiler from Scratch Taught Me About Abstractions",
+    "status": "Planned",
+    "date": "2025-08-01",
+    "readTime": "10 min",
+    "summary": "Parsing, AST design, semantic checks, TAC/RTL lowering and the engineering choices that make compilers manageable.",
+    "tags": [
+      "Compilers",
+      "C++",
+      "Systems"
+    ],
+    "url": "#"
+  },
+  {
+    "id": "unlearning-notes",
+    "title": "Machine Unlearning: When Deleting Data is Not Enough",
+    "status": "Planned",
+    "date": "2025-06-01",
+    "readTime": "7 min",
+    "summary": "A student-friendly walkthrough of fine-tuning, gradient ascent, influence estimates and DeltaGrad-style updates.",
+    "tags": [
+      "AI/ML",
+      "Research",
+      "PyTorch"
+    ],
+    "url": "#"
+  },
+  {
+    "id": "fullstack-assessments",
+    "title": "Designing Full-Stack Assessment Workflows That Feel Fast",
+    "status": "Draft",
+    "date": "2025-05-20",
+    "readTime": "6 min",
+    "summary": "Lessons from building APIs, frontend workflows and testing loops for coding assessment platforms.",
+    "tags": [
+      "Full Stack",
+      "React",
+      "NestJS"
+    ],
+    "url": "#"
+  }
+]

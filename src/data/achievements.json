@@ -1,0 +1,50 @@
+[
+  {
+    "title": "ICPC World Finals 2026",
+    "subtitle": "Qualified from IIT Bombay; ranked 7th in Asia West Finals",
+    "year": "2026",
+    "tone": "gold"
+  },
+  {
+    "title": "JEE Advanced AIR 58",
+    "subtitle": "Among 150,000+ students",
+    "year": "2023",
+    "tone": "cyan"
+  },
+  {
+    "title": "JEE Mains AIR 81",
+    "subtitle": "Among 1,000,000+ students",
+    "year": "2023",
+    "tone": "violet"
+  },
+  {
+    "title": "KVPY Fellowship AIR 58",
+    "subtitle": "Awarded by IISc Bangalore",
+    "year": "2021",
+    "tone": "cyan"
+  },
+  {
+    "title": "Atlas Fellowship India Finalist",
+    "subtitle": "Recognized with a $1,000 scholarship",
+    "year": "2022",
+    "tone": "violet"
+  },
+  {
+    "title": "National Olympiads",
+    "subtitle": "Qualified INAO, InChO, InPhO; National Top 1% in NSEC, NSEP, NSEA",
+    "year": "2022–23",
+    "tone": "gold"
+  },
+  {
+    "title": "IICPC QuantFest Finals",
+    "subtitle": "Ranked 18th among 75 finalists from 10,000+ participants",
+    "year": "2025",
+    "tone": "cyan"
+  },
+  {
+    "title": "Limestone Annual Data Challenge",
+    "subtitle": "Top 30 teams; Tower Research Capital",
+    "year": "2025",
+    "tone": "violet"
+  }
+]

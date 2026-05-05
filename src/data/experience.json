@@ -1,0 +1,69 @@
+[
+  {
+    "role": "Full Stack Web Development Intern",
+    "company": "AICET",
+    "location": "National University of Singapore (NUS)",
+    "period": "Summer 2025",
+    "type": "Internship",
+    "highlights": [
+      "Contributed to Koditsu, a platform for coding interviews and assessments.",
+      "Designed RESTful APIs using NestJS, TypeScript and MongoDB for end-to-end feature workflows.",
+      "Built tested backend services with Jest and integrated responsive React + Tailwind frontend modules."
+    ],
+    "tags": [
+      "React",
+      "TypeScript",
+      "NestJS",
+      "MongoDB",
+      "Jest",
+      "Tailwind"
+    ]
+  },
+  {
+    "role": "Teaching Assistant",
+    "company": "IIT Bombay",
+    "location": "CSE Department",
+    "period": "Spring 2025 – Autumn 2025",
+    "type": "Teaching",
+    "highlights": [
+      "TA for Software Systems Lab, Artificial Intelligence and Machine Learning, and Data Structures and Algorithms.",
+      "Helped with labs, exams, tutorials, debugging and student support for core CS courses."
+    ],
+    "tags": [
+      "Teaching",
+      "DSA",
+      "AI/ML",
+      "Systems"
+    ]
+  },
+  {
+    "role": "Operation Team Member",
+    "company": "IICPC",
+    "location": "InterCollegiate Informatics and Competitive Programming Camp",
+    "period": "2024 – Present",
+    "type": "Leadership",
+    "highlights": [
+      "Conducted a live YouTube session on foundational competitive programming concepts with 500+ concurrent viewers.",
+      "Designed and validated contest problems while supporting participants across platforms."
+    ],
+    "tags": [
+      "Competitive Programming",
+      "Problem Setting",
+      "Mentorship"
+    ]
+  },
+  {
+    "role": "Department Academic Mentor",
+    "company": "Student Mentorship Program, IIT Bombay",
+    "location": "IIT Bombay",
+    "period": "June 2025 – Present",
+    "type": "Mentorship",
+    "highlights": [
+      "Guiding sophomores on academic and extra-curricular decisions and helping them navigate their curriculum."
+    ],
+    "tags": [
+      "Mentorship",
+      "Academics"
+    ]
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "id": "plagiarism-detection",
+    "title": "Intelligent Plagiarism Detection System",
+    "type": "Course Project",
+    "domain": "Algorithms & Systems",
+    "under": "Prof. Ashutosh Gupta · Data Structures and Algorithms",
+    "time": "Autumn 2024",
+    "sortDate": "2024-11-01",
+    "relevance": 98,
+    "featured": true,
+    "summary": "Large-scale code similarity engine combining suffix trees, local alignment, approximate matching and multithreaded C++ pipelines.",
+    "points": [
+      "Implemented Suffix Tree and Ukkonen’s algorithm for linear-time pattern matching across codebases.",
+      "Combined Smith-Waterman local alignment with Levenshtein distance to detect approximate 80% code similarity with fewer false positives.",
+      "Accelerated large-scale plagiarism detection using multithreaded C++ parallel processing over submissions."
+    ],
+    "tags": [
+      "C++",
+      "Algorithms",
+      "Suffix Tree",
+      "Ukkonen",
+      "Parallelism",
+      "Plagiarism Detection"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/Totally_Not_Plagged"
+    }
+  },
+  {
+    "id": "sclp-compiler",
+    "title": "C Compiler in C++ from Scratch",
+    "type": "Course Project",
+    "domain": "Compilers",
+    "under": "Prof. Uday Khedkar · Implementation of Programming Languages",
+    "time": "Spring 2025",
+    "sortDate": "2025-04-01",
+    "relevance": 97,
+    "featured": true,
+    "summary": "A structured SCLP compiler for a small C-like language, implemented across parsing, AST, semantic analysis and backend lowering.",
+    "points": [
+      "Built SCLP across 5 assignments with parsing, AST construction, semantic analysis, TAC/RTL generation and modular compiler passes.",
+      "Engineered a modern C++ codebase using layered class design, inheritance, visitors, virtual dispatch and smart pointers.",
+      "Used variant/optional, variadic templates and std::forward to keep the codebase expressive and maintainable."
+    ],
+    "tags": [
+      "C++",
+      "Compilers",
+      "AST",
+      "TAC",
+      "RTL",
+      "Modern C++"
+    ],
+    "links": {}
+  },
+  {
+    "id": "rl-agents",
+    "title": "Reinforcement Learning: Bandits, MDP and Game Agents",
+    "type": "Course Project",
+    "domain": "AI/ML",
+    "under": "Prof. Shivaram Kalyanakrishnan · Foundations of Intelligent and Learning Agents",
+    "time": "Autumn 2025",
+    "sortDate": "2025-11-01",
+    "relevance": 96,
+    "featured": true,
+    "summary": "A combined RL project suite covering stochastic bandits, MDP planning and adversarial game-playing agents.",
+    "points": [
+      "Implemented UCB, KL-UCB, Thompson Sampling, optimized KL-UCB and Poisson-door policies for stochastic bandits.",
+      "Built MDP solvers using Howard’s Policy Iteration and LP, then encoded a strategic card game into an optimal planning pipeline.",
+      "Developed Microchess agents with minimax, move ordering and evaluation heuristics against random and rational bots."
+    ],
+    "tags": [
+      "RL",
+      "Bandits",
+      "MDP",
+      "Minimax",
+      "Python",
+      "Planning"
+    ],
+    "links": {}
+  },
+  {
+    "id": "medical-image-computing",
+    "title": "Medical Image Computing Algorithms",
+    "type": "Course Project",
+    "domain": "AI/ML",
+    "under": "Prof. Suyash Awate · Medical Image Computing",
+    "time": "Spring 2025",
+    "sortDate": "2025-04-15",
+    "relevance": 93,
+    "featured": true,
+    "summary": "Classical and probabilistic medical image algorithms for denoising, CT reconstruction, MRI segmentation, shape modelling and lesion inpainting.",
+    "points": [
+      "Implemented Bayesian MAP-MRF denoising and dictionary-learning patch denoisers for MRI/CT/microscopy images.",
+      "Built CT reconstruction using Radon transform, FBP filters and ART for noisy or incomplete projection data.",
+      "Segmented brain MRI with bias-corrected FCM and HMRF-GMM-EM using ICM-based label smoothing.",
+      "Modelled medical shapes using Procrustes PCA/kernel PCA and benchmarked BrainWeb lesion inpainting methods."
+    ],
+    "tags": [
+      "Medical Imaging",
+      "MRI",
+      "MAP-MRF",
+      "CT",
+      "Segmentation",
+      "Python"
+    ],
+    "links": {}
+  },
+  {
+    "id": "nlp-sos",
+    "title": "Classical and Deep Learning Approaches in NLP",
+    "type": "Summer of Science",
+    "domain": "AI/ML",
+    "under": "Math and Physics Club, IIT Bombay",
+    "time": "Summer 2024",
+    "sortDate": "2024-06-01",
+    "relevance": 90,
+    "featured": true,
+    "summary": "A broad NLP exploration from traditional text representation to transformers and downstream fine-tuning tasks.",
+    "points": [
+      "Explored NLP pipelines and text representation models such as n-grams, TF-IDF and Word2Vec.",
+      "Studied RNNs, LSTMs and Transformer models with attention mechanisms and encoder-decoder frameworks.",
+      "Analyzed BERT, contextual embeddings, fine-tuning and applications in sequence classification, pairwise classification and sequence labeling."
+    ],
+    "tags": [
+      "NLP",
+      "BERT",
+      "Transformers",
+      "Deep Learning",
+      "Python"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/Natural-Language-Processing---SoS"
+    }
+  },
+  {
+    "id": "competitive-programming",
+    "title": "Competitive Programming in C++",
+    "type": "Self Learning Project",
+    "domain": "Algorithms & Systems",
+    "under": "Self-driven",
+    "time": "2024 – Present",
+    "sortDate": "2026-01-01",
+    "relevance": 99,
+    "featured": true,
+    "summary": "A living algorithmic library and practice log around advanced data structures, graph algorithms, string algorithms and contest problem solving.",
+    "points": [
+      "Achieved 2000+ peak Codeforces rating as Candidate Master and solved 1000+ problems across platforms.",
+      "Built expertise in segment trees, HLD, centroid decomposition, Euler tour, binary lifting, suffix trees, FFT/NTT, SCCs and number theory."
+    ],
+    "tags": [
+      "C++",
+      "Algorithms",
+      "Codeforces",
+      "ICPC",
+      "Data Structures",
+      "Number Theory"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/CP-by-Lucifer/",
+      "codeforces": "https://codeforces.com/profile/abhijain565aj"
+    }
+  },
+  {
+    "id": "machine-unlearning",
+    "title": "Machine Unlearning",
+    "type": "Course Project",
+    "domain": "AI/ML",
+    "under": "Prof. Pushpak Bhattacharyya · Artificial Intelligence and Machine Learning",
+    "time": "Spring 2025",
+    "sortDate": "2025-04-05",
+    "relevance": 88,
+    "featured": false,
+    "summary": "A practical unlearning suite for deep and linear models, with CIFAR-10 experiments and efficient leave-one-out retraining machinery.",
+    "points": [
+      "Implemented fine-tuning, gradient ascent and EIF on CIFAR-10 using PyTorch and ResNet18, with a Streamlit demo.",
+      "Built a custom DeltaGrad pipeline for logistic regression using LBFGS Hessian approximation and two-loop recursion."
+    ],
+    "tags": [
+      "Machine Unlearning",
+      "PyTorch",
+      "ResNet",
+      "DeltaGrad",
+      "Streamlit"
+    ],
+    "links": {}
+  },
+  {
+    "id": "rl-trader",
+    "title": "Reinforcement Learning Trader",
+    "type": "Seasons of Code",
+    "domain": "AI/ML",
+    "under": "Web & Coding Club, IIT Bombay",
+    "time": "Summer 2024",
+    "sortDate": "2024-06-15",
+    "relevance": 82,
+    "featured": false,
+    "summary": "A custom stock-trading environment and deep RL baseline suite exploring DQN, DDQN and DDPG agents.",
+    "points": [
+      "Developed a DQN model with CartPole v1 and built a custom OpenAI Gym environment.",
+      "Trained DQN, DDQN and DDPG algorithms on a custom stock trading environment."
+    ],
+    "tags": [
+      "RL",
+      "DQN",
+      "DDPG",
+      "Finance",
+      "OpenAI Gym",
+      "Python"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/Team2-RL_Trader"
+    }
+  },
+  {
+    "id": "shellforge",
+    "title": "ShellForge",
+    "type": "Course Project",
+    "domain": "Systems",
+    "under": "Prof. Mythili R. Vutukuru · Operating Systems",
+    "time": "Spring 2025",
+    "sortDate": "2025-03-01",
+    "relevance": 86,
+    "featured": false,
+    "summary": "Operating systems assignments spanning pthread synchronization, xv6 internals and Linux system call programming.",
+    "points": [
+      "Implemented multithreaded programs using Pthreads, locks, semaphores and condition variables.",
+      "Modified xv6 to understand process management, memory management, scheduling, synchronization and file systems.",
+      "Developed programs using Linux system call APIs for process control, IPC and memory allocation."
+    ],
+    "tags": [
+      "OS",
+      "xv6",
+      "Pthreads",
+      "Linux",
+      "Systems",
+      "C"
+    ],
+    "links": {}
+  },
+  {
+    "id": "architecture-verilog-mips",
+    "title": "Computer Architecture in Verilog and Assembly",
+    "type": "Course Project",
+    "domain": "Systems",
+    "under": "Prof. Sayandeep Saha and Prof. Bhaskaran Raman · Digital Logic Design and Computer Architecture",
+    "time": "Autumn 2024",
+    "sortDate": "2024-10-01",
+    "relevance": 80,
+    "featured": false,
+    "summary": "Low-level architecture implementations in Verilog and MIPS assembly, from arithmetic circuits to recursive algorithms.",
+    "points": [
+      "Developed Karatsuba multiplication in Verilog with ripple-carry and carry-lookahead adders.",
+      "Implemented recursive Merge Sort and Binary Search on dynamically allocated arrays using the MIPS ISA."
+    ],
+    "tags": [
+      "Verilog",
+      "MIPS",
+      "Computer Architecture",
+      "Karatsuba",
+      "Assembly"
+    ],
+    "links": {}
+  },
+  {
+    "id": "compression-autocomplete",
+    "title": "Text Compression and Autocomplete",
+    "type": "Course Project",
+    "domain": "Algorithms & Systems",
+    "under": "Prof. Ashutosh Gupta · Data Structures and Algorithms",
+    "time": "Autumn 2024",
+    "sortDate": "2024-09-20",
+    "relevance": 78,
+    "featured": false,
+    "summary": "Data-structures project implementing compression and dynamic autocomplete with canonical algorithmic building blocks.",
+    "points": [
+      "Implemented DEFLATE using Huffman coding, achieving about 2:1 compression on large text files.",
+      "Used LZ77 for lossless compression through back-referencing.",
+      "Developed dynamic context-based autocomplete using Prefix Trie and KMP."
+    ],
+    "tags": [
+      "Compression",
+      "Huffman",
+      "LZ77",
+      "Trie",
+      "KMP",
+      "C++"
+    ],
+    "links": {}
+  },
+  {
+    "id": "geoguide",
+    "title": "GeoGuide",
+    "type": "eYRC 23-24",
+    "domain": "Robotics & Vision",
+    "under": "e-Yantra Robotics Competition",
+    "time": "Autumn 2023",
+    "sortDate": "2023-11-01",
+    "relevance": 74,
+    "featured": false,
+    "summary": "Computer vision and geospatial robotics tasks around event extraction, object classification, path tracking and ArUco markers.",
+    "points": [
+      "Developed image processing tasks, object classification using ResNet-18, path tracking with ArUco markers and event extraction from arena images.",
+      "Built a coordinate tracking system using QGIS for spatial visualization and ArUco ID tracking."
+    ],
+    "tags": [
+      "Computer Vision",
+      "Robotics",
+      "ResNet",
+      "ArUco",
+      "QGIS",
+      "Python"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/eYRC-Tasks-GeoGuide"
+    }
+  }
+]

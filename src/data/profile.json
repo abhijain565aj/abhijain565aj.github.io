@@ -1,0 +1,64 @@
+{
+  "name": "Abhi Jain",
+  "shortName": "Abhi",
+  "headline": "Computer Science & Engineering @ IIT Bombay",
+  "tagline": "I like building fast systems, intelligent tools and clean abstractions — from ICPC algorithms to compilers, full-stack products, AI/ML systems and research prototypes.",
+  "location": "IIT Bombay · India",
+  "email": "23b0903@iitb.ac.in",
+  "avatarText": "AJ",
+  "education": {
+    "degree": "B.Tech. in Computer Science & Engineering",
+    "institute": "Indian Institute of Technology Bombay",
+    "graduation": "2027",
+    "cpi": "9.32",
+    "extras": "Pursuing Honors in Computer Science and Minor in Machine Intelligence & Data Science"
+  },
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/abhijain565aj",
+      "kind": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/abhi-jain-0a994328b/",
+      "kind": "linkedin"
+    },
+    {
+      "label": "Codeforces",
+      "url": "https://codeforces.com/profile/abhijain565aj",
+      "kind": "code"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:23b0903@iitb.ac.in",
+      "kind": "mail"
+    }
+  ],
+  "stats": [
+    {
+      "value": "ICPC WF",
+      "label": "World Finals 2026 qualifier"
+    },
+    {
+      "value": "AIR 58",
+      "label": "JEE Advanced 2023"
+    },
+    {
+      "value": "9.32",
+      "label": "CPI at IIT Bombay"
+    },
+    {
+      "value": "2000+",
+      "label": "Codeforces peak rating"
+    }
+  ],
+  "focusAreas": [
+    "Algorithms",
+    "Systems",
+    "AI/ML",
+    "Full Stack",
+    "Compilers",
+    "Research"
+  ]
+}

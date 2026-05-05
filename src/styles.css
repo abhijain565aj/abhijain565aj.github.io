@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&family=Sora:wght@600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+    --cursor-x: 50vw;
+    --cursor-y: 50vh;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    @apply min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-cyan-300 selection:text-slate-950;
+    background:
+      radial-gradient(circle at var(--cursor-x) var(--cursor-y), rgba(34, 211, 238, 0.11), transparent 20rem),
+      radial-gradient(circle at 15% 10%, rgba(124, 58, 237, 0.22), transparent 30rem),
+      radial-gradient(circle at 85% 5%, rgba(34, 211, 238, 0.13), transparent 24rem),
+      #050816;
+  }
+
+  .light body {
+    @apply bg-slate-50 text-slate-950 selection:bg-violet-200 selection:text-slate-950;
+    background:
+      radial-gradient(circle at var(--cursor-x) var(--cursor-y), rgba(124, 58, 237, 0.10), transparent 20rem),
+      radial-gradient(circle at 10% 8%, rgba(34, 211, 238, 0.20), transparent 28rem),
+      radial-gradient(circle at 90% 0%, rgba(250, 204, 21, 0.16), transparent 22rem),
+      #f8fafc;
+  }
+
+  a {
+    @apply outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply border border-white/10 bg-white/[0.055] shadow-card backdrop-blur-2xl;
+  }
+
+  .light .glass-card {
+    @apply border-slate-200/80 bg-white/80 shadow-xl shadow-slate-200/70;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-cyan-200 via-violet-200 to-amber-200 bg-clip-text text-transparent;
+  }
+
+  .light .gradient-text {
+    @apply from-cyan-700 via-violet-700 to-amber-600;
+  }
+
+  .chip {
+    @apply rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-xs font-semibold text-slate-300 transition hover:border-cyan-300/40 hover:text-cyan-100;
+  }
+
+  .light .chip {
+    @apply border-slate-200 bg-white text-slate-700 hover:border-violet-300 hover:text-violet-700;
+  }
+
+  .section-shell {
+    @apply mx-auto w-full max-w-7xl px-5 py-20 sm:px-8 lg:px-10;
+  }
+
+  .nav-link {
+    @apply text-sm font-semibold text-slate-300 transition hover:text-white;
+  }
+
+  .light .nav-link {
+    @apply text-slate-600 hover:text-slate-950;
+  }
+}
+
+.noise::before {
+  pointer-events: none;
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  opacity: 0.04;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.95' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+.grid-mask {
+  background-image:
+    linear-gradient(to right, rgba(148, 163, 184, 0.12) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(148, 163, 184, 0.12) 1px, transparent 1px);
+  background-size: 52px 52px;
+  mask-image: radial-gradient(circle at top, black, transparent 70%);
+}
+
+.orbit-line {
+  background: conic-gradient(from 90deg, transparent, rgba(34, 211, 238, 0.7), transparent, rgba(124, 58, 237, 0.65), transparent);
+}
