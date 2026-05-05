@@ -2,7 +2,7 @@
   "name": "Abhi Jain",
   "shortName": "Abhi",
   "headline": "Computer Science & Engineering @ IIT Bombay",
-  "tagline": "I like building fast systems, intelligent tools and clean abstractions — from ICPC algorithms to compilers, full-stack products, AI/ML systems and research prototypes.",
+  "tagline": "I like building high-performance C++ systems, clean algorithmic abstractions and quantitative-finance tooling — from ICPC problem solving to compilers, systems projects, ML experiments and research prototypes.",
   "location": "IIT Bombay · India",
   "email": "23b0903@iitb.ac.in",
   "avatarText": "AJ",
@@ -37,6 +37,10 @@
   ],
   "stats": [
     {
+      "value": "QuantBox",
+      "label": "Incoming Summer 2026 intern"
+    },
+    {
       "value": "ICPC WF",
       "label": "World Finals 2026 qualifier"
     },
@@ -45,20 +49,16 @@
       "label": "JEE Advanced 2023"
     },
     {
-      "value": "9.32",
-      "label": "CPI at IIT Bombay"
-    },
-    {
       "value": "2000+",
       "label": "Codeforces peak rating"
     }
   ],
   "focusAreas": [
+    "C++",
     "Algorithms",
-    "Systems",
-    "AI/ML",
-    "Full Stack",
-    "Compilers",
-    "Research"
+    "System Design",
+    "Quant Finance",
+    "Low-level Systems",
+    "Compilers"
   ]
 }
