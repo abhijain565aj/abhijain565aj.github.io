@@ -6,6 +6,7 @@ import Experience from './components/Experience.jsx';
 import Projects from './components/Projects.jsx';
 import Blogs from './components/Blogs.jsx';
 import Achievements from './components/Achievements.jsx';
+import Extracurriculars from './components/Extracurriculars.jsx';
 import Skills from './components/Skills.jsx';
 import Contact from './components/Contact.jsx';
 import CommandPalette from './components/CommandPalette.jsx';
@@ -30,6 +31,7 @@ export default function App() {
         <Projects />
         <Blogs />
         <Achievements />
+        <Extracurriculars />
         <Skills />
         <Contact />
       </main>
