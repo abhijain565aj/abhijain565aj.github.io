@@ -125,13 +125,9 @@ export default function Projects() {
   return (
     <section id="projects" className="section-shell">
       <div className="flex flex-col justify-between gap-8 lg:flex-row lg:items-end">
-        <SectionHeading eyebrow="builds" title="Project atlas with filters, search and relevance sorting">
-          Every card is generated from <code className="rounded bg-white/10 px-2 py-1 font-mono text-sm text-cyan-200 light:bg-slate-100 light:text-violet-700">src/data/projects.json</code>. Add a project once, and the UI handles cards, filters, modal detail pages and ordering.
+        <SectionHeading eyebrow="builds" title="Project atlas">
+          Search across projects, filter by domain or tag, open detailed cards, and sort the complete archive by relevance or timeline.
         </SectionHeading>
-        <div className="glass-card rounded-[2rem] p-4 text-sm text-slate-300 light:text-slate-600 lg:max-w-xs">
-          <p className="font-bold text-white light:text-slate-950">Design idea</p>
-          <p className="mt-2 leading-6">Use relevance for recruiter-first ordering, and timeline for academic/research evolution.</p>
-        </div>
       </div>
 
       <div className="mt-10 grid gap-3 rounded-[2rem] border border-white/10 bg-white/[0.04] p-4 backdrop-blur-xl light:border-slate-200 light:bg-white md:grid-cols-[1.3fr_.8fr_.8fr_.7fr_auto]">
