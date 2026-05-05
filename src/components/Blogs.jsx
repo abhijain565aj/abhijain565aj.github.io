@@ -20,8 +20,8 @@ export default function Blogs() {
 
   return (
     <section id="blogs" className="section-shell">
-      <SectionHeading eyebrow="writing" title="Blog system ready for essays, notes and write-ups">
-        The blog cards are also JSON-driven. Right now they are seeded as planned/draft posts; replace URLs with Markdown-rendered pages, Notion links, Substack links, or GitHub markdown posts later.
+      <SectionHeading eyebrow="writing" title="Blogs and technical notes">
+        A space for longer essays, implementation notes, contest write-ups, research reflections and project deep dives.
       </SectionHeading>
 
       <div className="mt-10 grid gap-3 rounded-[2rem] border border-white/10 bg-white/[0.04] p-4 backdrop-blur-xl light:border-slate-200 light:bg-white md:grid-cols-[1fr_auto]">
