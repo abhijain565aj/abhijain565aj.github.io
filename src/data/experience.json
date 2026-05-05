@@ -1,6 +1,24 @@
 [
   {
-    "role": "Full Stack Web Development Intern",
+    "role": "Incoming Quantitative Research / Technology Intern",
+    "company": "QuantBox",
+    "location": "India",
+    "period": "Summer 2026",
+    "type": "Upcoming Internship",
+    "highlights": [
+      "Upcoming internship aligned with quantitative finance, algorithms, performance-oriented engineering and research-driven problem solving.",
+      "Interested in C++, systems, market microstructure-style engineering, mathematical modelling and competitive programming."
+    ],
+    "tags": [
+      "Quant Finance",
+      "C++",
+      "Algorithms",
+      "Systems",
+      "Research"
+    ]
+  },
+  {
+    "role": "Software Engineering Intern",
     "company": "AICET",
     "location": "National University of Singapore (NUS)",
     "period": "Summer 2025",
@@ -11,10 +29,10 @@
       "Built tested backend services with Jest and integrated responsive React + Tailwind frontend modules."
     ],
     "tags": [
-      "React",
       "TypeScript",
       "NestJS",
       "MongoDB",
+      "React",
       "Jest",
       "Tailwind"
     ]
