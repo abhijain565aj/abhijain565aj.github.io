@@ -1,0 +1,72 @@
+[
+  {
+    "id": "energenius-hackathon",
+    "title": "Energenius Hackathon",
+    "subtitle": "AI/ML in Energy Domain · Department of Energy Science and Engineering, IIT Bombay",
+    "year": "April 2024",
+    "rank": "First Position",
+    "category": "Hackathon",
+    "summary": "Bagged first position in an AI/ML hackathon conducted by DESE, IIT Bombay.",
+    "tags": ["AI/ML", "Hackathon", "Energy", "IIT Bombay"]
+  },
+  {
+    "id": "srmc-2024",
+    "title": "Srinivasa Ramanujan Mathematics Competition",
+    "subtitle": "Organized by the Mathematics and Physics Clubs of IIT Bombay and IIT Madras",
+    "year": "Summer 2024",
+    "rank": "Rank 8",
+    "category": "Mathematics",
+    "summary": "Ranked 8th among 750+ students in the first round of SRMC 2024.",
+    "tags": ["Mathematics", "Competition", "MnP"]
+  },
+  {
+    "id": "codewars-v4",
+    "title": "CodeWars v4",
+    "subtitle": "Flagship coding event by Web and Coding Club, IIT Bombay",
+    "year": "Spring 2024",
+    "rank": "First Prize",
+    "category": "Programming",
+    "summary": "Secured first prize in a team of 4 by developing a Python script to coordinate a swarm of pirates in a dynamic capture-the-flag contest.",
+    "tags": ["Python", "Strategy", "WnCC", "Programming"]
+  },
+  {
+    "id": "mathathon",
+    "title": "Mathathon",
+    "subtitle": "Maths Olympiad by Math and Physics Club, IIT Bombay",
+    "year": "August 2023",
+    "rank": "Rank 10",
+    "category": "Mathematics",
+    "summary": "Secured rank 10 in Mathathon conducted by MnP Club of IIT Bombay.",
+    "tags": ["Mathematics", "Olympiad", "MnP"]
+  },
+  {
+    "id": "finance-management-learnerspace",
+    "title": "Essentials of Finance and Management & Business Development 101",
+    "subtitle": "LearnerSpace",
+    "year": "Summer 2024",
+    "rank": "Completed",
+    "category": "Learning",
+    "summary": "Completed LearnerSpace programs on essentials of finance, management and business development.",
+    "tags": ["Finance", "Business", "Management", "Learning"]
+  },
+  {
+    "id": "basketball-nso",
+    "title": "Basketball Training",
+    "subtitle": "National Sports Organisation",
+    "year": "2023–24",
+    "rank": "Completed",
+    "category": "Sports",
+    "summary": "Completed a year-long training course in basketball through National Sports Organisation.",
+    "tags": ["Basketball", "Sports", "NSO"]
+  },
+  {
+    "id": "xlr8",
+    "title": "XLR8",
+    "subtitle": "Flagship event of Electronics and Robotics Club, IIT Bombay",
+    "year": "August 2023",
+    "rank": "Participant",
+    "category": "Robotics",
+    "summary": "Engineered a manually controlled bot capable of navigating through a diverse obstacle track.",
+    "tags": ["Robotics", "ERC", "Hardware", "Bot"]
+  }
+]
