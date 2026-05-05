@@ -1,5 +1,34 @@
 [
   {
+    "id": "competitive-programming",
+    "title": "Competitive Programming in C++",
+    "type": "Self Learning Project",
+    "domain": "Algorithms & Systems",
+    "under": "Self-driven",
+    "time": "2024 – Present",
+    "sortDate": "2026-01-01",
+    "relevance": 100,
+    "featured": true,
+    "summary": "A living algorithmic library and contest practice archive around advanced data structures, graph algorithms, string algorithms, number theory and ICPC-style problem solving.",
+    "points": [
+      "Achieved 2000+ peak Codeforces rating as Candidate Master and solved 1000+ problems across competitive programming platforms.",
+      "Developed expertise in segment trees and variants, centroid decomposition, HLD, Euler tour, binary lifting, suffix trees, FFT/NTT, SCCs and advanced number theory.",
+      "Qualified for ICPC World Finals 2026 and repeatedly secured IIT Bombay-best ranks across regional contests."
+    ],
+    "tags": [
+      "C++",
+      "Algorithms",
+      "Codeforces",
+      "ICPC",
+      "Data Structures",
+      "Number Theory"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/CP-by-Lucifer/",
+      "codeforces": "https://codeforces.com/profile/abhijain565aj"
+    }
+  },
+  {
     "id": "plagiarism-detection",
     "title": "Intelligent Plagiarism Detection System",
     "type": "Course Project",
@@ -7,13 +36,13 @@
     "under": "Prof. Ashutosh Gupta · Data Structures and Algorithms",
     "time": "Autumn 2024",
     "sortDate": "2024-11-01",
-    "relevance": 98,
+    "relevance": 99,
     "featured": true,
     "summary": "Large-scale code similarity engine combining suffix trees, local alignment, approximate matching and multithreaded C++ pipelines.",
     "points": [
-      "Implemented Suffix Tree and Ukkonen’s algorithm for linear-time pattern matching across codebases.",
+      "Implemented Suffix Tree and Ukkonen’s algorithm for efficient linear-time pattern matching across large codebases.",
       "Combined Smith-Waterman local alignment with Levenshtein distance to detect approximate 80% code similarity with fewer false positives.",
-      "Accelerated large-scale plagiarism detection using multithreaded C++ parallel processing over submissions."
+      "Supercharged large-scale plagiarism detection using multithreaded C++ parallel processing over code submissions."
     ],
     "tags": [
       "C++",
@@ -35,13 +64,13 @@
     "under": "Prof. Uday Khedkar · Implementation of Programming Languages",
     "time": "Spring 2025",
     "sortDate": "2025-04-01",
-    "relevance": 97,
+    "relevance": 98,
     "featured": true,
-    "summary": "A structured SCLP compiler for a small C-like language, implemented across parsing, AST, semantic analysis and backend lowering.",
+    "summary": "A structured SCLP compiler for a small C-like language, implemented across parsing, AST construction, semantic analysis and backend lowering.",
     "points": [
       "Built SCLP across 5 assignments with parsing, AST construction, semantic analysis, TAC/RTL generation and modular compiler passes.",
       "Engineered a modern C++ codebase using layered class design, inheritance, visitors, virtual dispatch and smart pointers.",
-      "Used variant/optional, variadic templates and std::forward to keep the codebase expressive and maintainable."
+      "Used variant/optional, variadic templates and std::forward to keep the codebase expressive, maintainable and clean."
     ],
     "tags": [
       "C++",
@@ -61,7 +90,7 @@
     "under": "Prof. Shivaram Kalyanakrishnan · Foundations of Intelligent and Learning Agents",
     "time": "Autumn 2025",
     "sortDate": "2025-11-01",
-    "relevance": 96,
+    "relevance": 97,
     "featured": true,
     "summary": "A combined RL project suite covering stochastic bandits, MDP planning and adversarial game-playing agents.",
     "points": [
@@ -87,11 +116,11 @@
     "under": "Prof. Suyash Awate · Medical Image Computing",
     "time": "Spring 2025",
     "sortDate": "2025-04-15",
-    "relevance": 93,
+    "relevance": 94,
     "featured": true,
     "summary": "Classical and probabilistic medical image algorithms for denoising, CT reconstruction, MRI segmentation, shape modelling and lesion inpainting.",
     "points": [
-      "Implemented Bayesian MAP-MRF denoising and dictionary-learning patch denoisers for MRI/CT/microscopy images.",
+      "Implemented Bayesian MAP-MRF denoising and dictionary-learning patch denoisers for MRI, CT and microscopy images.",
       "Built CT reconstruction using Radon transform, FBP filters and ART for noisy or incomplete projection data.",
       "Segmented brain MRI with bias-corrected FCM and HMRF-GMM-EM using ICM-based label smoothing.",
       "Modelled medical shapes using Procrustes PCA/kernel PCA and benchmarked BrainWeb lesion inpainting methods."
@@ -103,6 +132,32 @@
       "CT",
       "Segmentation",
       "Python"
+    ],
+    "links": {}
+  },
+  {
+    "id": "knowledge-compilation",
+    "title": "Knowledge Representations and Compilation",
+    "type": "Research and Development Project",
+    "domain": "Theory & Research",
+    "under": "Prof. S. Akshay",
+    "time": "Summer 2024",
+    "sortDate": "2024-07-01",
+    "relevance": 92,
+    "featured": true,
+    "summary": "Research exploration around tractable Boolean representation languages, synthesis-friendly normal forms and approximate model counting beyond d-DNNF.",
+    "points": [
+      "Explored extensions of Darwiche’s Knowledge Compilation Map through new tractable languages, their relationships and expressiveness.",
+      "Investigated synNNF and wDNNF representations for efficient Boolean function synthesis.",
+      "Studied model counting beyond d-DNNF using dynamic programming, tree-width heuristics, hashing and d-sharp-based experimentation."
+    ],
+    "tags": [
+      "Knowledge Compilation",
+      "Theory",
+      "Boolean Functions",
+      "Model Counting",
+      "DNNF",
+      "Research"
     ],
     "links": {}
   },
@@ -134,34 +189,6 @@
     }
   },
   {
-    "id": "competitive-programming",
-    "title": "Competitive Programming in C++",
-    "type": "Self Learning Project",
-    "domain": "Algorithms & Systems",
-    "under": "Self-driven",
-    "time": "2024 – Present",
-    "sortDate": "2026-01-01",
-    "relevance": 99,
-    "featured": true,
-    "summary": "A living algorithmic library and practice log around advanced data structures, graph algorithms, string algorithms and contest problem solving.",
-    "points": [
-      "Achieved 2000+ peak Codeforces rating as Candidate Master and solved 1000+ problems across platforms.",
-      "Built expertise in segment trees, HLD, centroid decomposition, Euler tour, binary lifting, suffix trees, FFT/NTT, SCCs and number theory."
-    ],
-    "tags": [
-      "C++",
-      "Algorithms",
-      "Codeforces",
-      "ICPC",
-      "Data Structures",
-      "Number Theory"
-    ],
-    "links": {
-      "github": "https://github.com/abhijain565aj/CP-by-Lucifer/",
-      "codeforces": "https://codeforces.com/profile/abhijain565aj"
-    }
-  },
-  {
     "id": "machine-unlearning",
     "title": "Machine Unlearning",
     "type": "Course Project",
@@ -169,12 +196,13 @@
     "under": "Prof. Pushpak Bhattacharyya · Artificial Intelligence and Machine Learning",
     "time": "Spring 2025",
     "sortDate": "2025-04-05",
-    "relevance": 88,
+    "relevance": 89,
     "featured": false,
     "summary": "A practical unlearning suite for deep and linear models, with CIFAR-10 experiments and efficient leave-one-out retraining machinery.",
     "points": [
-      "Implemented fine-tuning, gradient ascent and EIF on CIFAR-10 using PyTorch and ResNet18, with a Streamlit demo.",
-      "Built a custom DeltaGrad pipeline for logistic regression using LBFGS Hessian approximation and two-loop recursion."
+      "Implemented fine-tuning, gradient ascent and EIF on CIFAR-10 using PyTorch and ResNet18, combining distillation, entropy maximization and validation-aware fine-tuning.",
+      "Built a Streamlit demo for visualizing unlearning behavior and model performance.",
+      "Implemented a custom DeltaGrad pipeline for logistic regression using LBFGS Hessian approximation and two-loop recursion."
     ],
     "tags": [
       "Machine Unlearning",
@@ -186,6 +214,57 @@
     "links": {}
   },
   {
+    "id": "shellforge",
+    "title": "ShellForge",
+    "type": "Course Project",
+    "domain": "Systems",
+    "under": "Prof. Mythili R. Vutukuru · Operating Systems",
+    "time": "Spring 2025",
+    "sortDate": "2025-03-01",
+    "relevance": 88,
+    "featured": false,
+    "summary": "Operating systems assignments spanning pthread synchronization, xv6 internals and Linux system call programming.",
+    "points": [
+      "Implemented multithreaded programs using Pthreads, locks, semaphores and condition variables.",
+      "Modified xv6 to understand process management, memory management, scheduling, synchronization and file systems.",
+      "Developed programs using Linux system call APIs for process control, IPC mechanisms and memory allocation."
+    ],
+    "tags": [
+      "OS",
+      "xv6",
+      "Pthreads",
+      "Linux",
+      "Systems",
+      "C"
+    ],
+    "links": {}
+  },
+  {
+    "id": "combinatorial-game-design",
+    "title": "Combinatorial Game Design and Analysis",
+    "type": "Course Project",
+    "domain": "Theory & Research",
+    "under": "Prof. Urban Larsson · Combinatorial Game Theory",
+    "time": "Spring 2025",
+    "sortDate": "2025-04-10",
+    "relevance": 87,
+    "featured": false,
+    "summary": "Design and analysis of impartial L-tile combinatorial games using game trees, canonical forms and automated verification.",
+    "points": [
+      "Designed and analyzed an impartial L-Tile combinatorial game, applying game trees and simplification theorems.",
+      "Derived canonical forms for complex positions and studied hot/cold games, periodicity and dyadic game values.",
+      "Implemented an automated solver using CGSuite with custom rule logic and verified conjectures for small boards."
+    ],
+    "tags": [
+      "Game Theory",
+      "Combinatorial Games",
+      "CGSuite",
+      "Math",
+      "Theory"
+    ],
+    "links": {}
+  },
+  {
     "id": "rl-trader",
     "title": "Reinforcement Learning Trader",
     "type": "Seasons of Code",
@@ -193,12 +272,14 @@
     "under": "Web & Coding Club, IIT Bombay",
     "time": "Summer 2024",
     "sortDate": "2024-06-15",
-    "relevance": 82,
+    "relevance": 84,
     "featured": false,
     "summary": "A custom stock-trading environment and deep RL baseline suite exploring DQN, DDQN and DDPG agents.",
     "points": [
-      "Developed a DQN model with CartPole v1 and built a custom OpenAI Gym environment.",
-      "Trained DQN, DDQN and DDPG algorithms on a custom stock trading environment."
+      "Developed a DQN model with CartPole v1 while learning RL algorithms and built a custom OpenAI Gym environment.",
+      "Explored quantitative finance models such as Black-Scholes, arbitrage pricing and mean-reversion strategies for trading-agent design.",
+      "Trained DQN, DDQN and DDPG algorithms on a custom stock trading environment.",
+      "On GSPC_2018, achieved a hypothetical net worth increase of 5.68% from $20,000 to $21,135, outperforming the stock over 70% of the time."
     ],
     "tags": [
       "RL",
@@ -213,32 +294,6 @@
     }
   },
   {
-    "id": "shellforge",
-    "title": "ShellForge",
-    "type": "Course Project",
-    "domain": "Systems",
-    "under": "Prof. Mythili R. Vutukuru · Operating Systems",
-    "time": "Spring 2025",
-    "sortDate": "2025-03-01",
-    "relevance": 86,
-    "featured": false,
-    "summary": "Operating systems assignments spanning pthread synchronization, xv6 internals and Linux system call programming.",
-    "points": [
-      "Implemented multithreaded programs using Pthreads, locks, semaphores and condition variables.",
-      "Modified xv6 to understand process management, memory management, scheduling, synchronization and file systems.",
-      "Developed programs using Linux system call APIs for process control, IPC and memory allocation."
-    ],
-    "tags": [
-      "OS",
-      "xv6",
-      "Pthreads",
-      "Linux",
-      "Systems",
-      "C"
-    ],
-    "links": {}
-  },
-  {
     "id": "architecture-verilog-mips",
     "title": "Computer Architecture in Verilog and Assembly",
     "type": "Course Project",
@@ -246,11 +301,12 @@
     "under": "Prof. Sayandeep Saha and Prof. Bhaskaran Raman · Digital Logic Design and Computer Architecture",
     "time": "Autumn 2024",
     "sortDate": "2024-10-01",
-    "relevance": 80,
+    "relevance": 82,
     "featured": false,
     "summary": "Low-level architecture implementations in Verilog and MIPS assembly, from arithmetic circuits to recursive algorithms.",
     "points": [
-      "Developed Karatsuba multiplication in Verilog with ripple-carry and carry-lookahead adders.",
+      "Developed Karatsuba’s multiplication algorithm in Verilog with ripple-carry and carry-lookahead adders.",
+      "Implemented both combinational and recursive sequential circuit designs.",
       "Implemented recursive Merge Sort and Binary Search on dynamically allocated arrays using the MIPS ISA."
     ],
     "tags": [
@@ -270,12 +326,12 @@
     "under": "Prof. Ashutosh Gupta · Data Structures and Algorithms",
     "time": "Autumn 2024",
     "sortDate": "2024-09-20",
-    "relevance": 78,
+    "relevance": 81,
     "featured": false,
     "summary": "Data-structures project implementing compression and dynamic autocomplete with canonical algorithmic building blocks.",
     "points": [
       "Implemented DEFLATE using Huffman coding, achieving about 2:1 compression on large text files.",
-      "Used LZ77 for lossless compression through back-referencing.",
+      "Used Lempel-Ziv’77 (LZ77) for lossless compression through back-referencing.",
       "Developed dynamic context-based autocomplete using Prefix Trie and KMP."
     ],
     "tags": [
@@ -289,6 +345,34 @@
     "links": {}
   },
   {
+    "id": "datesphere",
+    "title": "DateSphere",
+    "type": "Course Project",
+    "domain": "Full Stack",
+    "under": "Prof. Kameswari Chebrolu · Software Systems Lab",
+    "time": "Spring 2024",
+    "sortDate": "2024-04-01",
+    "relevance": 80,
+    "featured": false,
+    "summary": "A full-stack dating website with profile management, authentication, filters, swiping-style discovery and recommendation logic.",
+    "points": [
+      "Developed a dating website using HTML, CSS and JavaScript with profile updates, password recovery and customizable filters.",
+      "Enhanced UI with like counts, profile swiping and a side menu for seamless navigation.",
+      "Built server-side Node.js support for authentication, profile management, session handling and a scoring algorithm for recommendations."
+    ],
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "Full Stack",
+      "Web"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/CS-108-DatingWebsite"
+    }
+  },
+  {
     "id": "geoguide",
     "title": "GeoGuide",
     "type": "eYRC 23-24",
@@ -296,12 +380,13 @@
     "under": "e-Yantra Robotics Competition",
     "time": "Autumn 2023",
     "sortDate": "2023-11-01",
-    "relevance": 74,
+    "relevance": 78,
     "featured": false,
     "summary": "Computer vision and geospatial robotics tasks around event extraction, object classification, path tracking and ArUco markers.",
     "points": [
-      "Developed image processing tasks, object classification using ResNet-18, path tracking with ArUco markers and event extraction from arena images.",
-      "Built a coordinate tracking system using QGIS for spatial visualization and ArUco ID tracking."
+      "Developed advanced image-processing tasks, object classification using ResNet-18, path tracking with ArUco markers and event extraction from arena images.",
+      "Designed CSV-based path tracking and validation for ArUco ID latitude-longitude data under simulated live tracking.",
+      "Built a coordinate tracking system using QGIS for spatial visualization and optimized ArUco ID tracking."
     ],
     "tags": [
       "Computer Vision",
@@ -314,5 +399,137 @@
     "links": {
       "github": "https://github.com/abhijain565aj/eYRC-Tasks-GeoGuide"
     }
+  },
+  {
+    "id": "cryptography",
+    "title": "Cryptography",
+    "type": "Technical Summer School",
+    "domain": "Security",
+    "under": "Cyber Security Community, IIT Bombay",
+    "time": "July 2024",
+    "sortDate": "2024-07-15",
+    "relevance": 77,
+    "featured": false,
+    "summary": "Classical and modern cryptography study with hands-on cipher implementations and RSA oracle attack experiments.",
+    "points": [
+      "Studied RSA, one-time pad, digital signatures, cryptographic hash functions, block and stream ciphers, AES and Diffie-Hellman key exchange.",
+      "Implemented Hill cipher encryption/decryption.",
+      "Implemented an adaptive ciphertext attack on RSA using a parity oracle."
+    ],
+    "tags": [
+      "Cryptography",
+      "RSA",
+      "AES",
+      "Hill Cipher",
+      "Security",
+      "Python"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/Abhi-s-LS-2024-Intro-to-Crypto"
+    }
+  },
+  {
+    "id": "group-theory-tcs",
+    "title": "Group Theory and Theoretical CS",
+    "type": "LearnerSpace",
+    "domain": "Theory & Research",
+    "under": "Math and Physics Club, IIT Bombay",
+    "time": "July 2024",
+    "sortDate": "2024-07-10",
+    "relevance": 76,
+    "featured": false,
+    "summary": "Mathematical foundations project covering algebra, number theory, first-order logic, proof theory and automata theory.",
+    "points": [
+      "Explored group theory basics such as binary operations, groups, subgroups, cosets and Lagrange’s theorem.",
+      "Applied homomorphisms and Burnside’s lemma to symmetry and number-theoretic reasoning.",
+      "Studied number theory, first-order logic, proof theory, unification and automata theory including DFA, NFA, regular languages and Turing machines."
+    ],
+    "tags": [
+      "Group Theory",
+      "Theoretical CS",
+      "Number Theory",
+      "Automata",
+      "Logic"
+    ],
+    "links": {}
+  },
+  {
+    "id": "corridor-board-game",
+    "title": "Corridor Board Game",
+    "type": "Self Project",
+    "domain": "Algorithms & Systems",
+    "under": "Self-driven",
+    "time": "Nov 2023",
+    "sortDate": "2023-11-20",
+    "relevance": 73,
+    "featured": false,
+    "summary": "C++ implementation of the Corridor board game with dynamic memory management, movement logic and graph-search validation.",
+    "points": [
+      "Developed the board game Corridor in C++ using object-oriented programming and pointers for dynamic memory management.",
+      "Optimized game mechanics and player movement logic.",
+      "Implemented BFS and backtracking algorithms to assess existence of valid paths."
+    ],
+    "tags": [
+      "C++",
+      "OOP",
+      "BFS",
+      "Backtracking",
+      "Game"
+    ],
+    "links": {
+      "github": "https://github.com/abhijain565aj/Corridor---Board-Game"
+    }
+  },
+  {
+    "id": "quadcopter",
+    "title": "Quadcopter",
+    "type": "Course Project",
+    "domain": "Robotics & Vision",
+    "under": "Prof. Kushal Tuckley · Makerspace",
+    "time": "March 2024 – April 2024",
+    "sortDate": "2024-04-15",
+    "relevance": 72,
+    "featured": false,
+    "summary": "Hardware and control project assembling a WiFi-controlled quadcopter with sensors and PID-based stabilization.",
+    "points": [
+      "Studied quadcopter dynamics and control theory, implementing a PID controller for stabilization.",
+      "Assembled a quadcopter from scratch using ESP32, Arduino and sensors such as barometer, IMU and GPS.",
+      "Enabled mobile-app control through WiFi joystick input."
+    ],
+    "tags": [
+      "Robotics",
+      "Control",
+      "PID",
+      "ESP32",
+      "Arduino",
+      "Sensors"
+    ],
+    "links": {}
+  },
+  {
+    "id": "sudoku-solver-image-processing",
+    "title": "Sudoku Solver with Image Processing",
+    "type": "Self Project",
+    "domain": "Robotics & Vision",
+    "under": "Self-driven",
+    "time": "September 2024 – Ongoing",
+    "sortDate": "2024-09-01",
+    "relevance": 71,
+    "featured": false,
+    "summary": "Image-based Sudoku extraction and solving pipeline combining OCR, OpenCV, deep learning and backtracking.",
+    "points": [
+      "Developed an image-based Sudoku solver using OCR for digit recognition and planned web hosting.",
+      "Implemented an OpenCV pipeline to extract, digitize and solve Sudoku puzzles from images.",
+      "Combined deep learning-based recognition with classical backtracking for final puzzle solving."
+    ],
+    "tags": [
+      "OpenCV",
+      "OCR",
+      "Deep Learning",
+      "Backtracking",
+      "Python",
+      "Computer Vision"
+    ],
+    "links": {}
   }
 ]
