@@ -9,6 +9,7 @@ const navItems = [
   ['Projects', '#projects'],
   ['Blogs', '#blogs'],
   ['Achievements', '#achievements'],
+  ['Extras', '#extracurriculars'],
   ['Contact', '#contact'],
 ];
 
@@ -41,11 +42,11 @@ export default function Navbar() {
           <span className="grid h-10 w-10 place-items-center rounded-2xl bg-gradient-to-br from-cyan-300 via-violet-500 to-amber-300 font-display text-sm font-black text-slate-950 shadow-glow">AJ</span>
           <span className="hidden sm:block">
             <span className="block font-display text-sm font-black text-white light:text-slate-950">{profile.name}</span>
-            <span className="block text-xs text-slate-400 light:text-slate-500">IIT Bombay CSE</span>
+            <span className="block text-xs text-slate-400 light:text-slate-500">C++ · Systems · Quant</span>
           </span>
         </a>
 
-        <div className="hidden items-center gap-7 lg:flex">
+        <div className="hidden items-center gap-6 lg:flex">
           {navItems.map(([label, href]) => (
             <a key={href} href={href} className="nav-link">{label}</a>
           ))}
